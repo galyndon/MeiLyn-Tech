@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1
+Dummy (majority),0.735,0.0,0.0,0.0
+Logistic Regression,0.737,0.503,0.783,0.613
+Random Forest,0.768,0.546,0.746,0.631
+Gradient Boosting,0.806,0.674,0.524,0.589
