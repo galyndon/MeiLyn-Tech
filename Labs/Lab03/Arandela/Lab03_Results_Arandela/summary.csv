@@ -1,0 +1,3 @@
+Model,Best val acc,Test acc,Trainable params,Train time (s)
+Fine-tuned ResNet18,0.93,0.934,8396806,241.803
+Baseline CNN (scratch),0.713,0.74,390918,238.941
